@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5deb7baad9cc3f3499cadea084d37c45, type: 3}
+  m_Name: Test Conversation
+  m_EditorClassIdentifier: 
+  speakerName: Wraith
+  paragraphs:
+  - I am thy father's spirit, doom'd for a certain term to walk the night, and for
+    the day confined to fast in fires, till the foul crimes done in my days of nature
+    are burnt and purged away.
+  - But that I am forbid to tell the secrets of my prison-house, I could a tale unfold
+    whose lightest word would harrow up thy soul, freeze thy young blood, make thy
+    two eyes, like stars, start from their spheres, thy knotted and combined locks
+    to part...
+  - If thou didst ever thy dear father love --
+  - Revenge his foul and most unnatural murder.

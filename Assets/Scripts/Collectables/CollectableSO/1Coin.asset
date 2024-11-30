@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f899cda0a51b104394d7f14bc75450f, type: 3}
+  m_Name: 1Coin
+  m_EditorClassIdentifier: 
+  CollectColor: {r: 0, g: 1, b: 0.0791831, a: 1}
+  CollectionFlashTime: 0.5
+  CollectionClip: {fileID: 8300000, guid: fbe0028e643ca9447b96112c9cdfadd5, type: 3}
+  CurrencyAmount: 1
